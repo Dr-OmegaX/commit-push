@@ -9,5 +9,5 @@ testing
 ---
 `Coding in Visual Studio`
 ---
-![C:\Users\barba\Desktop\Rutgers FinTech BootCamp\commit-push\images\Screenshot 2022-09-08 201542.jpg]
+[C:\Users\barba\Desktop\Rutgers FinTech BootCamp\commit-push\images\Screenshot 2022-09-08 201542.jpg]
 ---
