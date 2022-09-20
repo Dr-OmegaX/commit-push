@@ -1,5 +1,6 @@
-Title:  An Affirmative Way Forward
-Focus:  A quick look at Affirm as a modern mobile application-based payment platform and its impact so far
+# Title:  An Affirmative Way Forward
+
+## Focus:  A quick look at Affirm as a modern mobile application-based payment platform and its impact so far
 
 The development of modern online Point of Sale (POS) technology has been the most rapidly growing branch of the eCommerce industry since the founding and public renown of web-based services (such as “ebay” in 1995) that the average consumer can now access from the palm of their hand.  The progressive evolution of this technological archetype has enabled consumers to reliably purchase goods and services with ever increasing efficiency and convenience and appears to be here to stay (History of E-Commerce | George Washington University (gwu.edu)).
 
